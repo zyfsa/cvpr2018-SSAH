@@ -7,8 +7,8 @@ I modify the method of reading the data and some small bug I think. The version 
 
 The use of this code:
 
-1.download the Flickr-25k data by google pan:
-Then, unzip the data.zip and replace the original directory data/. Last, unzip the all .zip file in the data. 
+1.download the Flickr-25k data by google pan:https://drive.google.com/file/d/1DISD-7KSVkcJ8R6AyXvxj2jYSvIIP8G1/view?usp=sharing
+Then, put it in the big directory and unzip the data.zip. Last, unzip the all .zip file in the data. 
 
 2.python Main.py
 
