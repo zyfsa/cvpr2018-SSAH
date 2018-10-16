@@ -14,9 +14,8 @@ Then, unzip the data.zip and replace the original directory data/. Last, unzip t
 
 Lastly, I get the result:
 
-================================================
-...test map: map(i->t): 0.794, map(t->i): 0.797
-...test map: map(t->t): 0.766, map(i->i): 0.828
-================================================
+test map: map(i->t): 0.794, map(t->i): 0.797
+test map: map(t->t): 0.766, map(i->i): 0.828
+
 
 Welcome everyone to give suggestions and supplements. Thanks
