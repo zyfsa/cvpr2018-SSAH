@@ -9,6 +9,7 @@ The use of this code:
 
 1.download the Flickr-25k data by google pan:
 Then, unzip the data.zip and replace the original directory data/. Last, unzip the all .zip file in the data. 
+
 2.python Main.py
 
 Lastly, I get the result:
