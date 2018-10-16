@@ -13,12 +13,10 @@ Then, unzip the data.zip and replace the original directory data/. Last, unzip t
 2.python Main.py
 
 Lastly, I get the result:
-********test************
-==========================================================
-  ====                 Test map in all              ====
 
+================================================
 ...test map: map(i->t): 0.794, map(t->i): 0.797
 ...test map: map(t->t): 0.766, map(i->i): 0.828
-==================================================
+================================================
 
 Welcome everyone to give suggestions and supplements. Thanks
