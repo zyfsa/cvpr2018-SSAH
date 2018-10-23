@@ -319,10 +319,10 @@ class SSAH(object):
             Feat_L[ind, :] = Fea_L
             LABEL_L[ind, :] = Lab_L
             self.train_lab.run(feed_dict={self.ph['Sim']: S,
-                                          self.ph['H']: var['H'],
+                                          self.ph['H']: H,
                                           self.ph['L_batch']: self.train_L[ind, :],
                                           self.ph['lr_hash']: lr_lab,
-                                          self.ph['L_fea']: var['feat_L'],
+                                          self.ph['L_fea']: Feat_L,
                                           self.ph['label_input']: label,
                                           self.ph['B_batch']: np.sign(Hsh_L),
                                           self.ph['keep_prob']: 1.0})
