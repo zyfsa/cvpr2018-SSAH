@@ -12,10 +12,15 @@ Then, put it in the big directory and unzip the data.zip. Last, unzip the all .z
 
 2.python Main.py
 
-Lastly, I get the result:
+Lastly, I do more experiments. I get the next results with only one epoch:
 
-test map: map(i->t): 0.794, map(t->i): 0.797
-test map: map(t->t): 0.766, map(i->i): 0.828
+16bits:
+test map: map(i->t): 0.788, map(t->i): 0.785
 
+32bits:
+test map: map(i->t): 0.807, map(t->i): 0.802
+
+64bits:
+test map: map(i->t): 0.811, map(t->i): 0.795
 
 Welcome everyone to give suggestions and supplements. Thanks
